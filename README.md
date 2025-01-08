@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm 4qid4h</h1>
 <h3 align="center">
-  A passionate frontend developer from Malaysia. I recently completed my Bachelor of Computer Science (Software Development) with Honours at Sultan Zainal Abidin University.
+  A passionate and dedicated Computer Science (Software Development) graduate with a strong focus on Front-End Development and Data Analysis
 </h3>
 
 <h3 align="left">Languages:</h3>
