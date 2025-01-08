@@ -3,8 +3,6 @@
   A passionate frontend developer from Malaysia. I recently completed my Bachelor of Computer Science (Software Development) with Honours at Sultan Zainal Abidin University.
 </h3>
 
-- 📫 How to reach me **aqidahsolehah13@gmail.com**
-
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
