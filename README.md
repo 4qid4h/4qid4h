@@ -5,9 +5,6 @@
 
 - 📫 How to reach me **aqidahsolehah13@gmail.com**
 
-- 📄 Know about my experiences 
-  [https://www.canva.com/design/DAGQU-BxZlw/446wKP_qxL5nZQK0j5P8_Q/edit?utm_content=DAGQU-BxZlw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGQU-BxZlw/446wKP_qxL5nZQK0j5P8_Q/edit?utm_content=DAGQU-BxZlw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
